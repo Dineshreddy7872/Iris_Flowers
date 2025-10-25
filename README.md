@@ -60,3 +60,9 @@ Random Forest	96.7%	Best overall performance
 SVM (RBF)	96.7%	Similar accuracy
 
 Logistic Regression	93.3%	Simple baseline
+<img width="1366" height="681" alt="Streamlit App Image_1" src="https://github.com/user-attachments/assets/1adf6940-5ef5-4a5d-a35c-bf26c0a4815a" />
+
+
+
+
+
