@@ -1,0 +1,20 @@
+# Core Data Libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.9.1
+seaborn==0.13.2
+shap==0.45.0
+
+# Machine Learning
+scikit-learn==1.5.2
+joblib==1.4.2
+
+# Frontend
+streamlit==1.39.0
+
+# Optional: Colab / Tunneling Support
+pyngrok==7.1.6
+# LocalTunnel (Node.js-based, not a Python package)
+# Install manually with: npm install -g localtunnel
